@@ -1,0 +1,7 @@
+{
+  "name": "InSpectra",
+  "description": "An application to analyze food and cosmetic products from an image. It identifies products, highlights warnings, and allows users to ask questions about them via an AI chat.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
